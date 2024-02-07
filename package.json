@@ -1,8 +1,9 @@
 {
   "name": "peertube-plugin-internal",
   "version": "0.0.1",
-  "description": "Enhances privacy settings on the publish/upload page by disabling options for \"Public\", \"Unlisted\", and \"Private\", as well as the password protection feature. This ensures that the \"Internal\" setting is the only available option, promoting a streamlined and secure publishing/uploading experience.",
+  "description": "Enhances privacy settings on the publish/upload page by disabling options for \"Public\", \"Unlisted\", and \"Private\", as well as the password protection feature.",
   "homepage": "https://github.com/kgnfth/peertube-plugin-internal",
+  "bugs": "https://github.com/kgnfth/peertube-plugin-internal",
   "author": "kgnfth",
   "engine": {
     "peertube": ">=6.0.3"
